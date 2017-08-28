@@ -1,0 +1,4 @@
+Q. In which scenario is it impossible to embed data within a document (you must put the data in a separate collection)?
+Choose the best answer:
+
+Ans. The embedded could exceed the 16mb document limit within MongoDB
